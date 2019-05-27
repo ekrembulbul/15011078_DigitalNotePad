@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DigitalNotePad</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="red">Red</string>
+    <string name="lime">Lime</string>
+    <string name="yellow">Yellow</string>
+    <string name="blue">Blue</string>
+    <string name="aqua">Aqua</string>
+    <string name="fuchsia">Fuchsia</string>
+    <string name="label_color">Color</string>
+    <string name="label_priority">Priority</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="add_label_name">New</string>
+    <string name="main_label_name">Digital Note Pad</string>
+    <string name="edit_label_name">Edit</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>

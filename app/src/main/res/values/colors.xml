@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="myRed">#FFCCCC</color>
+    <color name="myLime">#CCFFCC</color>
+    <color name="myYellow">#FFFFCC</color>
+    <color name="myBlue">#CCCCFF</color>
+    <color name="myAqua">#CCFFFF</color>
+    <color name="myFuchsia">#FFCCFF</color>
+
+    <color name="red">#FF5555</color>
+    <color name="lime">#55FF55</color>
+    <color name="yellow">#FFFF55</color>
+    <color name="blue">#5555ff</color>
+    <color name="aqua">#55FFFF</color>
+    <color name="fuchsia">#ff55ff</color>
+</resources>
